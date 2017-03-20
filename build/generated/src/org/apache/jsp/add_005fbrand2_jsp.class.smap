@@ -1,0 +1,12 @@
+SMAP
+add_005fbrand2_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_brand2.jsp
+add_brand2.jsp
+*L
+5,10:45
+15,29:56
+43,5:85
+*E
